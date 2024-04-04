@@ -1,1 +1,2 @@
-# Logistic_Regression
+**Problem Statement:**
+Analyzing a diverse health and wellness dataset using Python libraries such as NumPy, pandas, and warnings. With variables ranging from HeartDisease to SkinCancer, the dataset encompasses various health indicators. The objective is to preprocess, transform, and model the data to uncover insights and predict various health outcomes. By leveraging Python programming skills and data analysis techniques, the project aims to explore the relationship between lifestyle factors, demographics, and overall health, providing valuable insights into health trends, risk factors, and potential interventions for improving overall well-being.
